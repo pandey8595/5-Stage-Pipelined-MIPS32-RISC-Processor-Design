@@ -198,8 +198,8 @@ Control hazards due to branch instructions.
 
 
 
-NPTEL & IIT KGP 'Hardware Modeling using Verilog'- Prof. Indranil Sengupta
-
+[NPTEL & IIT KGP 'Hardware Modeling using Verilog'- Prof. Indranil Sengupta
+](https://www.youtube.com/playlist?list=PLtlic7FZ6H4e-t0mKz7n84p-puk3KAT7N)
 
 
 
