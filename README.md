@@ -4,16 +4,36 @@ This repository contains the details and the code for the MIPS32 ISA based RISC 
 Table of contents
 
 ▫️ MIPS32
+
+
+
 ▫️ Addressing Modes
+
+
+
 ▫️ Instructions considered
+
+
 ▫️ Instruction Encoding
+
+
 ▫️ Stages of Execution
+
+
 ▫️ Non Pipelined DataPath
+
+
 ▫️ Pipelined DataPath
-▫️ Verilog Design Code
+
+
+
 ▫️ Example Program Testbench Code
-▫️ EDAplayground Link
+
+
+
 ▫️ Known issues and problems
+
+
 ▫️ References
 
 
